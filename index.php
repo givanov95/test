@@ -2,6 +2,7 @@
 <html lang="en">
 <?php
     phpinfo();
+	dshahdsajjhd
 ?>
 <!DOCTYPE html>
 <html lang="bg" class="overflow-x-hidden">
